@@ -16,8 +16,6 @@ To create an **Augmented Personal Assistant** capable of:
 4. **Remembering** you long-term (Mem0).
 5. Natively **integrating** with Google Drive, Gmail, and GitHub.
 
----
-
 ## Prerequisites
 
 * A Linux distribution.
@@ -25,8 +23,6 @@ To create an **Augmented Personal Assistant** capable of:
 * `curl` installed.
 * An Anthropic account (Claude).
 * API Keys for services (Apify, Mem0).
-
----
 
 ## Installation Step-by-Step
 
@@ -90,7 +86,7 @@ exit
 
 ```
 
-## ⚙️ Configuration (On Host)
+## Configuration (On Host)
 
 ### 1. Adjust Permissions (Sandbox Fix)
 
